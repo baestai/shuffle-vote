@@ -1,0 +1,1 @@
+import'./style.css';export const metadata={title:'셔플 공연 자리 투표'};export default function L({children}){return <html lang="ko"><body>{children}</body></html>}
